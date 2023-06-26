@@ -7,4 +7,6 @@ commonLabels:
   app: k8s
 
 resources:
-- deploy.yaml
+- nginx.yaml
+- httpd.yaml
+- httpd_service.yaml
